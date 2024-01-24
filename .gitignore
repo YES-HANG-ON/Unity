@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+Dessert Flight/[Ll]ibrary/
+Dessert Flight/[Tt]emp/
+Dessert Flight/[Oo]bj/
+Dessert Flight/[Bb]uild/
+Dessert Flight/[Bb]uilds/
+Dessert Flight/[Ll]ogs/
+Dessert Flight/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -65,8 +65,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Packed Addressables
-/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+Dessert Flight/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
+Dessert Flight/[Aa]ssets/[Ss]treamingAssets/aa.meta
+Dessert Flight/[Aa]ssets/[Ss]treamingAssets/aa/*
